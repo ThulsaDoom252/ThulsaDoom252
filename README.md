@@ -21,6 +21,6 @@ I'm Vladimir Grinash, a Frontend developer in JavaScript, React and Redux with a
 ### My stats ⭐
 
 <div align="center">
-<img align="left" width="47%" alt="Vladimir's GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=VladimirGrinash&show_icons=true&theme=transparent"/>
-<img align="right" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGrinash&layout=compact&&langs_count=8"/>
+<img align="left" width="47%" alt="Vladimir's GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=ThulsaDoom252&show_icons=true&theme=transparent"/>
+<img align="right" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulsaDoom252&layout=compact&&langs_count=8"/>
 </div>
