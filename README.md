@@ -14,7 +14,7 @@ I'm Vladimir Grinash, a Frontend developer in JavaScript, React and Redux with a
 <br/>
 
 ### Portfolio
-- :paperclip: [Portfolio (CV included)](https://portfolio-omega-lime-67.app/)
+- :paperclip: [Portfolio (CV included)](https://portfolio-omega-lime-67.vercel.app/)
 - :email: [Contact Me]thulsaDev@proton.me
 <br/>
 
