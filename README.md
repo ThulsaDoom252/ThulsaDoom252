@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vladimir Grinash, a Frontend developer in JavaScript, React and Redux with a strong focus on creating engaging and user-friendly graphical user interfaces. Looking to join an innovative and dynamic team to further develop my skills and contribute to exciting projects.
+I'm Vladimir, a Frontend developer in JavaScript, React and Redux with a strong focus on creating engaging and user-friendly graphical user interfaces. Looking to join an innovative and dynamic team to further develop my skills and contribute to exciting projects.
 
 📫 Reach me out
 
